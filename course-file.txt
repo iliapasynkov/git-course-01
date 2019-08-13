@@ -3,3 +3,5 @@
 
 1st commit in feature branch
 2nd commit in feature branch
+
+I'm in master branch
