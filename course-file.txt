@@ -3,3 +3,5 @@
 
 1st commit in feature branch
 2nd commit in feature branch
+
+back from master, and a new line added in feature branch
